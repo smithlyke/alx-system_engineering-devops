@@ -1,4 +1,4 @@
- a script that creates an alias.
+mod a script that creates an alias.
 a script that prints hello user, where user is the current Linux user.
 to Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 
